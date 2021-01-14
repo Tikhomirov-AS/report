@@ -1,7 +1,7 @@
 ## Реферат студента Тихомирова А.С.
   [Реферат](referat.md/)
  
-  [Cсылка на Реферат](referat_Tikhomirov.docx)
+  [Скачать реферат в формате DOCX](referat_Tikhomirov.docx)
  
-  [Рабочий файл](https://github.com/Tikhomirov-AS/report)
+  [Репозиторий на Github](https://github.com/Tikhomirov-AS/report)
 
